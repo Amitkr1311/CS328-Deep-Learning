@@ -1,0 +1,9 @@
+# Classroom notes folder
+Classroom-notes/
+projects
+Project-1/Brain-tumor/
+# Additional classroom-notes patterns
+.DS_Store
+.vscode
+.idea
+*.pdf
