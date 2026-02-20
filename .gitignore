@@ -2,8 +2,10 @@
 Classroom-notes/
 projects
 Project-1/Brain-tumor/
+Project-3/Retina_Vessel/
 # Additional classroom-notes patterns
 .DS_Store
 .vscode
 .idea
 *.pdf
+__pycache__/
